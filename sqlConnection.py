@@ -4,7 +4,7 @@ class Connection:
     def __init__(self):
         self.host = 'localhost'
         self.user = 'root'
-        self.passwd = '2202'
+        self.passwd = ''
         self.database = 'passmanagerDb1'
         self.mydb = ''
         self.created = False
